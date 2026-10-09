@@ -136,13 +136,11 @@ Distribución del trabajo
 
 Integrante	Actividades realizadas
 
-Laura Mejia Delgado	\[Registrar las actividades realizadas]
+Laura Mejia Delgado: Desarrollo del simulador de telemetría, Construcción del proceso ETL, Limpieza y validación de datos, Integración con PostgreSQL,  Visualización en Grafana 
 
-Yuritza Mendoza Mosquera	\[Registrar las actividades realizadas]
+Yuritza Mendoza Mosquera: [Registrar las actividades realizadas]
 
-8\. Repositorio
-
-
+Repositorio
 
 https://github.com/lauramejia583-design/solarbi-Mejia-Mendoza
 
