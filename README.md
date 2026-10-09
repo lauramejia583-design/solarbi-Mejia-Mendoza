@@ -138,7 +138,7 @@ Integrante	Actividades realizadas
 
 Laura Mejia Delgado	\[Registrar las actividades realizadas]
 
-\[Nombre del compañero/a]	\[Registrar las actividades realizadas]
+Yuritza Mendoza Mosquera	\[Registrar las actividades realizadas]
 
 8\. Repositorio
 
