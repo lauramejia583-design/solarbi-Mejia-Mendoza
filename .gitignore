@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secretos y credenciales
+.env
+.env.*
+!.env.example
+secrets.*
+credentials.*
+
+# Power BI: archivos temporales
+*.tmp
+*.bak
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Archivos de configuración local
+*.local

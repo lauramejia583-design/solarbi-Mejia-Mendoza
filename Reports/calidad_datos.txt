@@ -1,0 +1,12 @@
+REPORTE DE CALIDAD DE DATOS - FASE SILVER
+
+Archivo de entrada: D:\users\Luz Estela\Desktop\Laurinchis\phyton\Practica BI\Data\Bronze\telemetria.csv
+Archivo de salida: D:\users\Luz Estela\Desktop\Laurinchis\phyton\Practica BI\Data\Silver\telemetria_limpia.csv
+
+Registros originales: 884
+Registros con campos vacíos o inválidos: 24
+Registros fuera de rango: 16
+Duplicados eliminados: 20
+Registros válidos finales: 824
+Registros rechazados totales: 60
+Porcentaje de registros válidos: 93.21%
