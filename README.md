@@ -138,7 +138,7 @@ Integrante	Actividades realizadas
 
 Laura Mejia Delgado: Desarrollo del simulador de telemetría, Construcción del proceso ETL, Limpieza y validación de datos, Integración con PostgreSQL,  Visualización en Grafana 
 
-Yuritza Mendoza Mosquera: [Registrar las actividades realizadas]
+Yuritza Mendoza Mosquera: Crear el dashboard de Power BI, Mostrar indicadores de generación y rendimiento energético, Incluir el ahorro económico en pesos colombianos (COP), Agregar un parámetro de tarifa eléctrica, para ajustar el cálculo del ahorro, Incorporar filtros para consultar y analizar los datos.
 
 Repositorio
 
